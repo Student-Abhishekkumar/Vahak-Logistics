@@ -62,7 +62,7 @@ npm run dev
 VITE_API_URL=http://localhost/vahak/frontend/api
 ```
 
-## 🌐 Routing (React)
+## 🌐 Routing (React) 
 
 | Route Path             | Component           |
 | ---------------------- | ------------------- |
@@ -74,9 +74,10 @@ VITE_API_URL=http://localhost/vahak/frontend/api
 | `/contact`             | contact             |
 
 
-## 📄 ER Diagram
+## 🏠 Homepage Look 
 
-See `/assets/er-diagram.png` (Not provided)
+<img width="1894" height="891" alt="Screenshot 2025-07-12 115201" src="https://github.com/user-attachments/assets/d080bd9d-b687-474d-83fc-61a060a7340e" />
+
 
 ## 👥 Contributors
 
